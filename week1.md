@@ -1,60 +1,63 @@
-## Questions
+## How This Phase Works
 
-### Git For Team Workflow
+### Mornings
+Monday - Thursday at 9 AM we meet in the meadow for standup or lecture. Friday, we
+meet immediately after check-in.
 
-* What Makes a Good Commit?
-* How Do I Resolve Merge Conflicts?
-* What Makes a Good Pull Request?
-* How Do I "Spike" Code With Git Branches?
+Teams are encouraged to prepare their afternoon [lightning
+talk](#what_are_lightning_talks) during the morning. Teams without an afternoon lightning
+talk are encouraged to continue to work on their group project.
 
-### Test Driven Development
+### Afternoons
+Monday - Friday at 2 PM we meet in the cave for lightning talks. Lightning talks
+are ~5 minutes long, followed by 5 minutes for discussion.
 
-* How do I Write Tests?
-* How do I Test ActiveRecord?
-* How do I Test Sinatra?
-* How do I Test Outside Services?
+After lightning talks, teams are encouraged to work on group projects until 7pm.
+Thereafter individuals should pursue [side projects](#side_projects).
 
-### The Internet
+## Teams:
 
-* What Is The Request/Response Cycle?
-* What Are The Different Parts of a URI?
-* What Data is Available in the Request/Response Cycle?
-* How Do I Design a RESTful Web Application?
+### Alpha
+#### Members
 
-### Web Applications in Ruby
+#### Lightning Talks
+* Tuesday - What Makes a Good Commit?
+* Wednesday - What Are The Different Parts of a URI?
+* Friday - How Do I "Spike" Code With Git Branches?
 
-* How Do I Save User Input To a Database?
-* How Do I Validate User Input and Inform the User?
-* How Do I Host My Application On Heroku?
-* How Do I Use an Outside Service?
+### Beta
 
-## Project
+#### Lightning Talks
+* Tuesday - How do I Write Tests?
+* Wednesday - How Do I Validate User Input and Inform the User?
+* Friday - How do I Test Outside Services?
 
-### Online Discussion Forum
+### Gamma
 
-#### Minimum Viable Product
+#### Lightning Talks
+* Tuesday - What Happens When I Visit a Web Site?
+* Thursday - What Makes a Good Pull Request?
+* Friday - How Do I Design a RESTful Web Application?
 
-* Guest may register as Poster with Username and Password
-* Poster may create new discussion
-* Poster may respond to discussion
-* Guest may see list of discussions
-* Guest may see responses in discussion
-* Site is themed to target a specific audience
+### Delta
 
+#### Lightning Talks
+* Tuesday - How Can I Save User Input To a Database?
+* Thursday - How do I Test Sinatra?
+* Friday - How Do I Use an API?
 
-#### Recommended Features
+### Epsilon
 
-#### Additional Features
+#### Lightning Talks
+* Wednesday - How Do I Resolve Merge Conflicts?
+* Thursday - What Data is Available in the Request/Response Cycle?
 
-* Guest may see list of discussions, sorted by most recently active
-* Poster may comment on response
-* Poster may favorite discussion
-* Poster may favorite response
-* Guest may register as Poster with Twitter
-* Guest may register as Poster with Facebook
-* Guest may register as Poster with Github
-* Poster may add an identity for Facebook
-* Poster may add an identity for Twitter
-* Poster may add an identity for Github
-* Poster may log in using any of the identities they have added.
-* Poster may 
+### Zeta
+
+#### Lightning Talks
+* Wednesday - How do I Test ActiveRecord?
+* Thursday -How Do I Host My Application On Heroku?
+
+## Available Projects
+* An [Online Discussion Form](projects/online_discussion_forum.md)
+* A [Social Network](projects/social_network.md)
