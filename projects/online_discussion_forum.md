@@ -1,5 +1,10 @@
 # Online Discussion Forum
+Oh man, do you remember staying up late at night arguing about things on the
+Internet using [PHPBB](https://www.phpbb.com/) or
+[VBulletin](http://www.vbulletin.com/)?! WELL, YOU MISSED OUT.
 
+Now, we get to recreate that enabler of sleep deprivation in sinatra and ruby!
+YAYYYYY!!!!
 
 #### Minimum Viable Product
 
