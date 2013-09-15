@@ -12,6 +12,7 @@ What does this mean? It means you are:
 1. Sharing what you've learned with the rest of your team.
 1. Stopping group project work at the end of the work day.
 1. Using github's pull request model.
+1. Working as a group, not a collection of individuals. Pairing.
 
 ## Group Projects
 * An [Online Discussion Forum](projects/online_discussion_forum.md)
