@@ -16,12 +16,15 @@
 * Member does not see friend requests they denied.
 * Member can add a post to my feed.
 * Member can post a picture to my feed.
-* Member can see a feed of my friends' activity.
 
 ==== Friends ====
 
 * A friend of another member can see their feed.
 * Member cannot see another member's feed unless they are a friend.
+
+==== Aggregate stream (might be a challenge) ====
+
+* Member can see an aggregate feed of my friends' activity.
 
 == Advanced Features ==
 
