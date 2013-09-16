@@ -23,3 +23,12 @@
 * Member can filter their aggregate feed by tag.
 * Admin can ban members from logging into the site.
 * Admin cannot see members feeds unless they are my friend.
+
+## Hard Mode Features ##
+
+* Member with a thousand friends can load their aggregate feed quickly.
+* Member can search their aggregate feed for posts with a certain word.
+* Member can search their aggregate feed for a phrase.
+* Member can reset their password by email.
+* Member can ask someone not on the social network to join via email.
+* Member can find friends using their address book.
