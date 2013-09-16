@@ -3,6 +3,7 @@
 * Visitor cannot view any members content.
 * Visitor can sign up for an account.
 * Member can add a post to their feed.
+* Member find a friend by their name.
 * Member can request other members become their friend.
 * Member can see which members have made a friend request.
 * A friend of another member can see their feed.
@@ -37,5 +38,6 @@
 * The profile of a member with friends-of-friends profile can be viewed by their friends' friends as well as their friends.
 * The feed of a member with friends-of-friends feed can be viewed by their friends' friends as well as their friends.
 * Member can reset their password by email.
+* Member can invite someone to join via email.
 * Member can find friends by their friend's email address.
 * Member can find friends using their address book.
