@@ -31,6 +31,10 @@ group project. There is always more to do, more enhancements to be made, more
 features to be added, and more bugs to fix. This is why there is a 7PM hard
 stop.
 
+#### Resources
+
+* [Sinatra](resources/sinatra.md)
+
 ### Lightning Talks
 Lightning talks are 5 minutes where you answer a given question. By restricting
 it to 5 minutes, you must choose the most important things to talk about.
