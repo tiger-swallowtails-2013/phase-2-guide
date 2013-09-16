@@ -17,4 +17,4 @@ What does this mean? It means you are:
 ## Group Projects
 * An [Online Discussion Forum](projects/online_discussion_forum.md)
 * A [Social Network](projects/social_network.md)
-* A [Survey Management System](projects/survey.md)
+* A [Survey Management System](projects/survey_system.md)
