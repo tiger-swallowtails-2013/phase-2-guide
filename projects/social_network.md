@@ -33,8 +33,9 @@
 * Member with a thousand friends can load their aggregate feed quickly.
 * Member can search their aggregate feed for posts with a certain word.
 * Member can search their aggregate feed for a phrase.
-* Member can specify that their profile is for friends-of-friends.
+* Member can specify that their profile and feed are for friends-of-friends.
 * The profile of a member with friends-of-friends profile can be viewed by their friends' friends as well as their friends.
+* The feed of a member with friends-of-friends feed can be viewed by their friends' friends as well as their friends.
 * Member can reset their password by email.
 * Member can ask someone not on the social network to join via email.
 * Member can find friends using their address book.
