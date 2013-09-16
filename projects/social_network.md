@@ -1,4 +1,4 @@
-== Minimum Viable Product ==
+## Minimum Viable Product ##
 
 * Visitor cannot view any members content.
 * Visitor can sign up for an account.
@@ -13,7 +13,7 @@
 * Member does not see friend requests they denied.
 * Visitor can see example content from the site.
 
-== Additional Features ==
+## Additional Features ##
 
 * Member can see an aggregate feed of my friends' activity.
 * Member can post a picture to their feed.
