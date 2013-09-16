@@ -1,4 +1,6 @@
-## How This Phase Works
+# How This Phase Works
+
+## A Day In The Life
 
 ### Mornings
 Monday - Thursday at 9 AM we meet in the meadow for standup or lecture. Friday, we
@@ -17,20 +19,18 @@ Thereafter you should all pursue [side projects](#sideprojects).
 
 ### Evenings
 After 7PM, you should no longer be working on your group project. Instead you
-should be preparing tomorrows lighting talk, or working on a [side
+should prepare tomorrows [lighting talk](#lightningtalks) or work on a [side
 project](#sideprojects).
 
-This is what professional programmers do. We stop working on what our boss
-wants and start working on what *we* want. Because we love coding!
+## What Do We Work On?
 
-
-## Group Projects
+### Group Projects
 Group projects are only to be worked on until 6~7pm. You will not 'finish' your
 group project. There is always more to do, more enhancements to be made, more
 features to be added, and more bugs to fix. This is why there is a 7PM hard
 stop.
 
-## Lightning Talks
+### Lightning Talks
 Lightning talks are 5 minutes where you answer a given question. By restricting
 it to 5 minutes, you must choose the most important things to talk about.
 Generally the best lightning talks is 1 idea, split into 2~3 parts. Any more
