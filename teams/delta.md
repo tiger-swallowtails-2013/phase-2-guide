@@ -1,5 +1,9 @@
 # Delta
 ## Members
+Douglas Mill
+Robert Taraya
+Sunny Israni
+Bruno Sanches
 
 ## Lightning Talks
 * Tuesday - How Can I Save User Input To a Database?
