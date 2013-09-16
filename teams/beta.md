@@ -1,4 +1,4 @@
-# Beta
+# TMNT
 
 ## Members
 Gary Tsai, Srinivas Rao, Tyler Waneka, Elmer Wu
