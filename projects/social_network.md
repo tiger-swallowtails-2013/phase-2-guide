@@ -15,7 +15,6 @@
 * Member cannot see if someone denied my friend request.
 * Member does not see friend requests they denied.
 * Member can add a post to my feed.
-* Member can post a picture to my feed.
 
 ==== Friends ====
 
@@ -28,6 +27,7 @@
 
 == Advanced Features ==
 
+* Member can post a picture to their feed.
 * Admin can ban members from logging into the site.
 * Admin cannot see members feeds unless they are my friend.
 
