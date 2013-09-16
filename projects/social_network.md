@@ -8,11 +8,11 @@
 * A friend of another member can see their feed.
 * Member cannot see another member's feed unless they are a friend.
 * Member can approve a friend request.
-* Friend can respond to another's post
-* Member is notified when a friend responds to their post.
 
 ## Additional Features ##
 
+* Friend can respond to another's post
+* Member is notified when a friend responds to their post.
 * Member can create a profile with information about who they are.
 * Member can specify if a profile is public or friends-only.
 * The profile of a member with friends-only profile can only be viewed by their friends.
