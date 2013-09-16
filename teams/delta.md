@@ -1,5 +1,9 @@
 # Delta
 ## Members
+Douglas Mill
+Robert Taraya
+Sunny Israni
+Bruno Sanches
 
 * Nathan Allen
 * Nick Scricco
