@@ -7,20 +7,20 @@ Monday - Thursday at 9 AM we meet in the meadow for standup or lecture. Friday, 
 meet immediately after check-in.
 
 Teams are encouraged to prepare their afternoon [lightning
-talk](#lightningtalks) during the morning. Teams without an afternoon lightning
-talk are encouraged to continue to work on their [group project](#grouprojects).
+talk](#lightning-talks) during the morning. Teams without an afternoon lightning
+talk are encouraged to continue to work on their [group project](#group-projects).
 
 ### Afternoons
 Monday - Friday at 2 PM we meet in the cave for lightning talks. Lightning talks
 are ~5 minutes long, followed by 5 minutes for discussion.
 
 After lightning talks, teams are encouraged to work on group projects until 7pm.
-Thereafter you should all pursue [side projects](#sideprojects).
+Thereafter you should all pursue [side projects](#side-projects).
 
 ### Evenings
 After 7PM, you should no longer be working on your group project. Instead you
-should prepare tomorrows [lighting talk](#lightningtalks) or work on a [side
-project](#sideprojects).
+should prepare tomorrows [lighting talk](#lightning-talks) or work on a [side
+project](#side-projects).
 
 ## What Do We Work On?
 
@@ -55,8 +55,7 @@ Side Projects can last as long as a few years or as little as a few minutes.
 It's totally up to you to figure out what you want to do. If you need some help
 deciding, here's a few suggestions:
 
-1. Grab a challenge from Socrates! They're designed to help you explore key
-   ideas
+1. Grab a challenge from Socrates!
 2. Start working through/giving feedback on [exercism.io](http://exercism.io)
    they'll force you to write nice code!
 3. Take a stab at any of these [hundreds of
