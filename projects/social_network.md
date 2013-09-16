@@ -8,13 +8,13 @@
 * A friend of another member can see their feed.
 * Member cannot see another member's feed unless they are a friend.
 * Member can approve a friend request.
+
+## Additional Features ##
+
 * Member can deny a friend request.
 * Member cannot see if someone denied their friend request.
 * Member does not see friend requests they denied.
 * Visitor can see example content from the site.
-
-## Additional Features ##
-
 * Member can see an aggregate feed of my friends' activity.
 * Member can post a picture to their feed.
 * Admin can ban members from logging into the site.
