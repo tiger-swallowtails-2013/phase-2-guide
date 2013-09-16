@@ -23,12 +23,11 @@ be accessible from the UI.*
 * Guest may respond to a Survey they have been linked to
 * Surveyor may see individual responses to a survey
 
-
 ## Hard Mode Features
 
-*Hey! These are kinda difficult! However, we think it's worth trying to achiev
+*Hey! These are kinda difficult! However, we think it's worth trying to achieve
 at least a few of these on your project. They'll seriously push your
-understanding of how to build webapps in ruby*
+understanding of how to build webapps in Ruby*
 
 * Surveyor may email a survey to a Responder
 * Surveyor may create a survey with images for questions
