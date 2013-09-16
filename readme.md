@@ -15,6 +15,15 @@ are ~5 minutes long, followed by 5 minutes for discussion.
 After lightning talks, teams are encouraged to work on group projects until 7pm.
 Thereafter you should all pursue [side projects](#sideprojects).
 
+### Evenings
+After 7PM, you should no longer be working on your group project. Instead you
+should be preparing tomorrows lighting talk, or working on a [side
+project](#sideprojects).
+
+This is what professional programmers do. We stop working on what our boss
+wants and start working on what *we* want. Because we love coding!
+
+
 ## Group Projects
 Group projects are only to be worked on until 6~7pm. You will not 'finish' your
 group project. There is always more to do, more enhancements to be made, more
