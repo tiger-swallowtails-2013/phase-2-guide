@@ -5,9 +5,9 @@
 * Member can add a post to their feed.
 * Member can request other members become my friend.
 * Member can see which members have made a friend request.
+* A friend of another member can see their feed.
 * Member cannot see another member's feed unless they are a friend.
 * Member can approve a friend request.
-* A friend of another member can see their feed.
 * Member can deny a friend request.
 * Member cannot see if someone denied their friend request.
 * Member does not see friend requests they denied.
