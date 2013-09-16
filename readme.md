@@ -43,3 +43,24 @@ Every single person will be giving at least 1 talk, and most will do 2. Once you
 have done 1 talk, you cannot do another talk until everyone else has done 1
 talk. Once you have done 2, you cannot do another talk until everyone else has
 done 2. The same for 3 and 4 if we get to do that many.
+
+### Side Projects
+Every good programmer worth their salt has some kind of side project. Good side
+projects do either/both of two things:
+
+1. Shore up difficulties faced during the work day.
+2. Explore things you're super excited about.
+
+Side Projects can last as long as a few years or as little as a few minutes.
+It's totally up to you to figure out what you want to do. If you need some help
+deciding, here's a few suggestions:
+
+1. Grab a challenge from Socrates! They're designed to help you explore key
+   ideas
+2. Start working through/giving feedback on [exercism.io](http://exercism.io)
+   they'll force you to write nice code!
+3. Take a stab at any of these [hundreds of
+   projects](https://github.com/thekarangoel/Projects) spread across problem
+   domains.
+4. Grab a staff member, student, or mentor and ask them what *they're* super
+   excited about or wished they knew better.
