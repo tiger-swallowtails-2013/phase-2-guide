@@ -1,5 +1,6 @@
 # Alpha
 ## Members
+Kiera, David1, John, Nishant, David2
 
 ## Lightning Talks
 * Tuesday - What Makes a Good Commit?
