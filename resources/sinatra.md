@@ -14,3 +14,6 @@ A detailed look at testing sinatra in rspec or test unit.
 
 ### [Sinatra Book](http://sinatra-book.gittr.com/)
 The slightly-out-of-date but very comprehensive book on sinatra.
+
+### [Sinatra: Up and Running](http://shop.oreilly.com/product/0636920019664.do)
+A short primer from O'Reilly. Konstantin Haas, one of the auhors, is a maintainer of Sinatra.
