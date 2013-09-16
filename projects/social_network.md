@@ -8,6 +8,8 @@
 * A friend of another member can see their feed.
 * Member cannot see another member's feed unless they are a friend.
 * Member can approve a friend request.
+* Friend can respond to another's post
+* Member is notified when a friend responds to their post.
 
 ## Additional Features ##
 
@@ -17,6 +19,7 @@
 * Visitor can see example content from the site.
 * Member can see an aggregate feed of my friends' activity.
 * Member can post a picture to their feed.
+* Member can tag their post.
+* Member can filter their aggregate feed by tag.
 * Admin can ban members from logging into the site.
 * Admin cannot see members feeds unless they are my friend.
-
