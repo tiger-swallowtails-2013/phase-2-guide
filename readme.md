@@ -14,13 +14,14 @@ talk are encouraged to continue to work on their [group project](#group-projects
 Monday - Friday at 2 PM we meet in the cave for lightning talks. Lightning talks
 are ~5 minutes long, followed by 5 minutes for discussion.
 
-After lightning talks, teams are encouraged to work on group projects until 7pm.
-Thereafter you should all pursue [side projects](#side-projects).
+After lightning talks, teams are encouraged to work on group projects. Teams are
+encouraged to stop working on projects at 6 PM and must stop work at 7PM. Thereafter
+you should all pursue [side projects](#side-projects).
 
 ### Evenings
-After 7PM, you should no longer be working on your group project. Instead you
-should prepare tomorrows [lighting talk](#lightning-talks) or work on a [side
-project](#side-projects).
+At 6 PM, you should begin to wrap up group projects for the day.  After 7PM, you
+should no longer be working on your group project. Instead you should prepare
+tomorrow's [lighting talk](#lightning-talks) or work on a [side project](#side-projects).
 
 ## What Do We Work On?
 
