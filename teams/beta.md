@@ -1,5 +1,7 @@
 # Beta
+
 ## Members
+Gary Tsai, Srinivas Rao, Tyler Waneka, Elmer Wu
 
 ## Lightning Talks
 * Tuesday - How do I Write Tests?
