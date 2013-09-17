@@ -8,6 +8,6 @@
 
 ## Lightning Talks
 * Tuesday - How Can I Save User Input To a Database?
-* Thursday - How do I Test Sinatra?
-* Friday - How Do I Use an API?
+* Thursday - What Makes a Good Pull Request?
+* Friday - How Do I Design a RESTful Web Application?
 

@@ -7,5 +7,5 @@ Bruno Sanches
 
 ## Lightning Talks
 * Tuesday - What Happens When I Visit a Web Site?
-* Thursday - What Makes a Good Pull Request?
-* Friday - How Do I Design a RESTful Web Application?
+* Wednesday - How Do I Validate User Input and Inform the User?
+* Friday - How do I Test Outside Services?
