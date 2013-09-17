@@ -1,6 +1,6 @@
-# The Power Rangers (aka Voltron)
+# Planeteers
 ## Members
-Kiera (blue), David M. (red), John (white), Nishant (green), David R. (pink)
+Kiera (fire), David M. (wind), John (water), Nishant (earth), David R. (heart)
 
 ## Lightning Talks
 * Tuesday - What Makes a Good Commit?
