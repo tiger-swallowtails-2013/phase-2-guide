@@ -1,4 +1,10 @@
-# Epsilon
+# Lightning Snakes
+
+Anaximandro Davila
+Daniel Trostli
+Morgan Wildermuth
+John Uke
+
 
 ## Members
 
