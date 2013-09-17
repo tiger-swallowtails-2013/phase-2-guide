@@ -18,3 +18,12 @@ What does this mean? It means you are:
 * An [Online Discussion Forum](projects/online_discussion_forum.md)
 * A [Social Network](projects/social_network.md)
 * A [Survey Management System](projects/survey_system.md)
+
+## Learning Objectives
+
+This week, your goal is to be capable of:
+
+1. Creating a small database driven web application in ruby.
+2. Making web applications available on the internet.
+3. Working as a team with git, where you review each others code.
+4. Testing plain ruby objects, active record models, and web applications.
