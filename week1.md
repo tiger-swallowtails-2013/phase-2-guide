@@ -18,3 +18,8 @@ What does this mean? It means you are:
 * An [Online Discussion Forum](projects/online_discussion_forum.md)
 * A [Social Network](projects/social_network.md)
 * A [Survey Management System](projects/survey_system.md)
+
+## Resources
+
+* [Sinatra](resources/sinatra.md)
+* [RSpec](resources/rspec.md)
