@@ -64,3 +64,16 @@ deciding, here's a few suggestions:
    domains.
 4. Grab a staff member, student, or mentor and ask them what *they're* super
    excited about or wished they knew better.
+
+## Resources
+
+Use this space to post links to great resources!
+
+Rspec:
+http://net.tutsplus.com/tutorials/ruby/how-to-integrate-rspec-into-a-sinatra-app/
+http://blog.teamtreehouse.com/an-introduction-to-rspec
+http://kerryb.github.io/iprug-rspec-presentation/#1
+
+CSS:
+http://www.1stwebdesigner.com/css/45-useful-css3-tutorials-and-techniques/
+
