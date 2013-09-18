@@ -27,3 +27,8 @@ This week, your goal is to be capable of:
 2. Making web applications available on the internet.
 3. Working as a team with git, where you review each others code.
 4. Testing plain ruby objects, active record models, and web applications.
+
+## Resources
+
+* [Sinatra](resources/sinatra.md)
+* [RSpec](resources/rspec.md)
