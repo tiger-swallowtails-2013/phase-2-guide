@@ -80,3 +80,6 @@ http://www.1stwebdesigner.com/css/45-useful-css3-tutorials-and-techniques/
 Sinatra (with database=>heroku):
 http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/
 http://samuelstern.wordpress.com/2012/11/28/making-a-simple-database-driven-website-with-sinatra-and-heroku/
+
+Continuous Integration:
+* [Setting up Travis CI](https://gist.github.com/ndelage/5593921)
