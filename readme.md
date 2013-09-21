@@ -40,11 +40,6 @@ parts and it gets rushed or too high level.
 Lightning talks use a whiteboard. No projector allowed! Feel free to practice
 sketching before giving the talk.
 
-Every single person will be giving at least 1 talk, and most will do 2. Once you
-have done 1 talk, you cannot do another talk until everyone else has done 1
-talk. Once you have done 2, you cannot do another talk until everyone else has
-done 2. The same for 3 and 4 if we get to do that many.
-
 ### Side Projects
 Every good programmer worth their salt has some kind of side project. Good side
 projects do either/both of two things:
