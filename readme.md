@@ -41,8 +41,8 @@ Lightning talks use a whiteboard. No projector allowed! Feel free to practice
 sketching before giving the talk.
 
 ### Side Projects
-Every good programmer worth their salt has some kind of side project. Good side
-projects do either/both of two things:
+Every programmer worth their salt has some kind of side project. Good side
+projects do one or more of these things:
 
 1. Shore up difficulties faced during the work day.
 2. Explore things you're super excited about.
