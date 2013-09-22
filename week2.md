@@ -3,6 +3,9 @@ You've made it for 1 week. Let's see about two, shall we? Week 2 is all about
 reinforcing REST, testing, and clean code, as well as adding in JavaScript and
 CSS.
 
+## Prep:
+### JS
+Underscore.js
 Spine
 Sizzle
 AJAX (non-JQuery ONLY)
