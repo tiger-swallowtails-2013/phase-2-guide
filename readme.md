@@ -80,7 +80,7 @@ Use this space to post links to great resources!
 * [Setting up Travis CI](https://gist.github.com/ndelage/5593921)
 
 ### Git
-* [Introduction to Git with Scott Chacon of GitHub](www.youtube.com/watch?v=ZDR433b0HJY)
+* [Introduction to Git with Scott Chacon of GitHub](http://www.youtube.com/watch?v=ZDR433b0HJY)
 * [Git Immersion](http://gitimmersion.com/lab_01.html)
 * [git ready](http://gitready.com/)
 * [Pro Git](http://git-scm.com/book)
