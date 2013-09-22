@@ -4,9 +4,9 @@
 * [Javascript](resources/javascript.md)
 
 ## Group Projects
-* An event scheduler, with a javascript date picker
-* A map where you can add cool stuff to do
-* Typeracer!
+* An event scheduler
+* A multi-user todo list
+* A typeracer clone
 
 Prep:
 _JS
