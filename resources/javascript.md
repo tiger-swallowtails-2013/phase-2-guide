@@ -16,3 +16,5 @@ The rubydoc.info of the javascript world. With more tutorials.
 ### [Sizzle Documentation](https://github.com/jquery/sizzle/wiki/Sizzle-Documentation#wiki-public-api)
 Documentation for how to use Sizzle to select elements from the DOM
 
+### [Soma Documentation](http://somajs.github.io/somajs/#/1)
+A javascript microframework for building loosely-coupled applictaions.
