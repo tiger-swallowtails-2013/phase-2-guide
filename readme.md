@@ -40,14 +40,9 @@ parts and it gets rushed or too high level.
 Lightning talks use a whiteboard. No projector allowed! Feel free to practice
 sketching before giving the talk.
 
-Every single person will be giving at least 1 talk, and most will do 2. Once you
-have done 1 talk, you cannot do another talk until everyone else has done 1
-talk. Once you have done 2, you cannot do another talk until everyone else has
-done 2. The same for 3 and 4 if we get to do that many.
-
 ### Side Projects
-Every good programmer worth their salt has some kind of side project. Good side
-projects do either/both of two things:
+Every programmer worth their salt has some kind of side project. Good side
+projects do one or more of these things:
 
 1. Shore up difficulties faced during the work day.
 2. Explore things you're super excited about.
@@ -69,17 +64,17 @@ deciding, here's a few suggestions:
 
 Use this space to post links to great resources!
 
-Rspec:
-http://net.tutsplus.com/tutorials/ruby/how-to-integrate-rspec-into-a-sinatra-app/
-http://blog.teamtreehouse.com/an-introduction-to-rspec
-http://kerryb.github.io/iprug-rspec-presentation/#1
+### Rspec
+* [How to integrate RSpec into Sinatra](http://net.tutsplus.com/tutorials/ruby/how-to-integrate-rspec-into-a-sinatra-app/)
+* [An introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
+* [Kerry Buckley's Intro to RSpec](http://kerryb.github.io/iprug-rspec-presentation/#1)
 
-CSS:
-http://www.1stwebdesigner.com/css/45-useful-css3-tutorials-and-techniques/
+### CSS
+* [45 Useful CSS3 tutorials](http://www.1stwebdesigner.com/css/45-useful-css3-tutorials-and-techniques/)
 
-Sinatra (with database=>heroku):
-http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/
-http://samuelstern.wordpress.com/2012/11/28/making-a-simple-database-driven-website-with-sinatra-and-heroku/
+### Sinatra (with database=>heroku)
+* [Designing With Class: Sinatra + Postgres + Heroku](http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/)
+* [Making a Simple Database Driven Website with Sinatra/Heroku](http://samuelstern.wordpress.com/2012/11/28/making-a-simple-database-driven-website-with-sinatra-and-heroku/)
 
-Continuous Integration:
+### Continuous Integration
 * [Setting up Travis CI](https://gist.github.com/ndelage/5593921)
