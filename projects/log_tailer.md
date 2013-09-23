@@ -1,5 +1,5 @@
 ## Log Tail-er
-You know what I hate? typeing `heroku logs --tail --app appname` You know what i would rather do? I would
+You know what I hate? typing `heroku logs --tail --app appname` You know what I would *rather* do? I would
 rather have a nifty web service to do it for me. 
 Go check out the [Heroku API](https://devcenter.heroku.com/articles/platform-api-reference#log-session) 
 docs and write me a web service that wraps the log-session api so
@@ -7,6 +7,7 @@ that you can go to a url something like http://yourapp.herokuapp.com/log/anapp .
 
 This consists of two parts
 ## Backend
+
 This should provide a nice API with a single endpoint to get the log stream for an app.
 
 
@@ -27,7 +28,7 @@ This should provide a nice API with a single endpoint to get the log stream for 
 ## Front End
 This should be a nice little javascript snippet that adds a logs button
 to the bottom of the page that opens a little modal window that shows the 
-current logs being produceds
+current logs being produces.
 
 ### MVP
 
