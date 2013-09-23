@@ -1,8 +1,12 @@
-# Thundercats!
-
-## Project:
-Typeracer
+# Thundercats
 
 ## Members
-Tyler Waneka, Nick Scricco, Max Davila, Nishant Chandra
+* Lionel (Lion-RaO)
+* RaoRao (CheetaRao)
+* Daniel(Mumm-Rao)
+* Bruno (SnarfRao)
 
+## Project
+* Type Racer
+
+![Thundercats](./images/Weird-Thundercats.jpg)
