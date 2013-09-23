@@ -10,4 +10,3 @@
 * Type Racer
 
 ![Thundercats](./images/Weird-Thundercats.jpg)
-
