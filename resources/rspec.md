@@ -21,3 +21,6 @@ Pretty clear and helpful. The second-to-final authority on how rspec works.
 ## [Driver Code to RSpec](https://gist.github.com/abinoda/1a0778292dd0aa0cd380)
 A gist demonstrating how to move from writing driver code to writing Rspec
 
+## [How to integrate RSpec into Sinatra](http://net.tutsplus.com/tutorials/ruby/how-to-integrate-rspec-into-a-sinatra-app/)
+## [An introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
+## [Kerry Buckley's Intro to RSpec](http://kerryb.github.io/iprug-rspec-presentation/#1)

@@ -17,3 +17,6 @@ The slightly-out-of-date but very comprehensive book on sinatra.
 
 ### [Sinatra: Up and Running](http://shop.oreilly.com/product/0636920019664.do)
 A short primer from O'Reilly. Konstantin Haas, one of the auhors, is a maintainer of Sinatra.
+
+### [Designing With Class: Sinatra + Postgres + Heroku](http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/)
+### [Making a Simple Database Driven Website with Sinatra/Heroku](http://samuelstern.wordpress.com/2012/11/28/making-a-simple-database-driven-website-with-sinatra-and-heroku/)
