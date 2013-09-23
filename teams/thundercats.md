@@ -6,4 +6,4 @@
 * Daniel(Mumm-Ra)
 * Bruno (Snarf)
 
-![Thundercats](./Weird-Thundercats.jpg)
+![Thundercats](./images/Weird-Thundercats.jpg)
