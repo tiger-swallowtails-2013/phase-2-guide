@@ -7,9 +7,9 @@ I want the ticker to be displayed in and poof I have a ticker.
 
 ## MVP
 
-* Single line ticker
+* Single line ticker of code to have a ticker added to my site.
 
 ## Hard-Mode Features
 
-* Figure out what implementing something as a plugin for angularjs means
-* Implement this as a provider plugin for angular or soma.js
+* Figure out what implementing something as a plugin for angularjs means.
+* Implement this as a provider plugin for angular or soma.js.
