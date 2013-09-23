@@ -6,4 +6,7 @@
 Typeracer
 
 ## Members
-Tyler Waneka, Nick Scricco, Max Davila, Nishant Chandra
+* Tyler Waneka
+* Nick Scricco
+* Max Davila
+* Nishant Chandra
