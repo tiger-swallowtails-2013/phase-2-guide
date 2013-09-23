@@ -1,0 +1,61 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>RAP RACER</title>
+</head>
+<body>
+  <ul> 
+    Thundercats:
+    <li>Lion-O</li>
+    <li>Cheetara</li>
+    <li>Snarf</li>
+    <li>Moom-Ra</li>
+  </ul>
+
+  <div id="main">
+    <p id="intro">The Thundercats were so drunk one night, they decided to invent.... </p>
+    <h2>RAP RACER </h2>
+  </div>
+  
+  <div id="lyrics">
+  <p>To all the ladies in the place with style and grace</p>
+  <p>Allow me to lace these lyrical duches in your bushes</p>
+  <p>Who rock grooves and make moves with all the mommies?</p>
+  <p>The back of the club, sippin Moet, is where you'll find me</p>
+  <p>The back of the club, macking hoes, my crew's behind me</p>
+  </div>
+
+
+
+  <input type="text" id="user-input" onkeypress="Snarf_func()">
+  <div>
+    <h2>You just typed:</h2>
+    <p id="user-output">FIND ME</p>
+  </div>
+
+
+  <script>
+
+  (function() {
+    var lyric_words = get_lyric_words();
+    console.log(lyric_words)
+
+
+    function get_lyric_words() {
+      var lines = document.getElementById('lyrics').getElementsByTagName('p')
+      var words = []
+      for (var i=0; i < lines.length; i++) {
+        var words_array = lines[i].outerText.split(' ')
+        for (var x=0; x < words_array.length; x++) {
+          words.push(words_array[x])
+        }
+      }
+      return words
+    }
+
+  })()
+
+  </script>
+
+</body>
+</html>
