@@ -42,12 +42,6 @@ I can:
 5. Write jasmine tests for plain old javascript
 6. Do all of the 1 thumbs up from week 1
 
-## Prep:
-### JS
-[Underscore.js](http://underscorejs.org/)
-
-## Resources
-* [Javascript](resources/javascript.md)
 
 ## Group Projects
 * [An event scheduler](projects/event_hosting.md)
@@ -58,8 +52,5 @@ I can:
 * [A JavaScript Stock Ticker](projects/stockticker.md)
 * [A Heroku Log Tailer](projects/log_tailer.md)
 
-Prep:
-[_JS](http://underscorejs.org/)
-[Spine](http://spinejs.com/)
-[Sizzle](http://sizzlejs.com/)
-AJAX (non-JQuery ONLY)
+## Resources
+* [Javascript](resources/javascript.md)
