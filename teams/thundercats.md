@@ -1,9 +1,14 @@
 # Thundercats
 
 ## Members
-* Lionel (Lion-O)
-* RaoRao (Cheetara)
-* Daniel(Mumm-Ra)
-* Bruno (Snarf)
+* Lionel (Lion-RaO)
+* RaoRao (CheetaRao)
+* Daniel(Mumm-Rao)
+* Bruno (SnarfRao)
+
+## Project
+* Type Racer
 
 ![Thundercats](./images/Weird-Thundercats.jpg)
+
+
