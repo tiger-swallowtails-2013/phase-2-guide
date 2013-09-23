@@ -16,5 +16,11 @@ The rubydoc.info of the javascript world. With more tutorials.
 ### [Sizzle Documentation](https://github.com/jquery/sizzle/wiki/Sizzle-Documentation#wiki-public-api)
 Documentation for how to use Sizzle to select elements from the DOM
 
-### [Soma Documentation](http://somajs.github.io/somajs/#/1)
-A javascript microframework for building loosely-coupled applictaions.
+### [Backbone Documentation](http://documentcloud.github.io/backbone/)
+A superlight pure javascript MVC framework
+
+### [Backbone Annotated Source] (http://documentcloud.github.io/backbone/docs/backbone.html)
+How it all works, It's pretty short and high quality code.
+
+### [Backbone Todo app Source] (http://documentcloud.github.io/backbone/docs/todos.html)
+A full todo app written with backbone, along with source annotations.
