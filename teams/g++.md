@@ -6,7 +6,7 @@ David Reiman
 Doug Mill
 Robert Taraya
 Sunny Israni
-Tom Allnut
+Tom Allnutt
 
 ## Lightning Talks
 
