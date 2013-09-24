@@ -30,3 +30,15 @@ Good luck,
 
 -David Reiman
 
+--------------
+
+P.S. Don't forget to start postgres first! You could do this each time you start up your computer:
+
+:> pg_ctl -D /usr/local/var/postgres -l logfile start
+
+...or you could use Topher's Magical Postgres Fix, which might use some extra battery but which prevents you from ever having to worry about postgres again:
+
+:> ln -sfv /usr/local/opt/postgresql/*.plist ~/Library/LaunchAgents
+
+Thank you, Topher!
+
