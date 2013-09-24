@@ -15,6 +15,8 @@ A series of books on how to use javascript to... master space and time!
 ## [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 The rubydoc.info of the javascript world. With more tutorials.
 
+## [Javascript Constructors, Prototypes, and the new Keyword](http://pivotallabs.com/javascript-constructors-prototypes-and-the-new-keyword/)
+A great article by Pivotal Labs on how new works.
 
 # Libraries
 
