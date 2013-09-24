@@ -59,28 +59,3 @@ deciding, here's a few suggestions:
    domains.
 4. Grab a staff member, student, or mentor and ask them what *they're* super
    excited about or wished they knew better.
-
-## Resources
-
-Use this space to post links to great resources!
-
-### Rspec
-* [How to integrate RSpec into Sinatra](http://net.tutsplus.com/tutorials/ruby/how-to-integrate-rspec-into-a-sinatra-app/)
-* [An introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
-* [Kerry Buckley's Intro to RSpec](http://kerryb.github.io/iprug-rspec-presentation/#1)
-
-### CSS
-* [45 Useful CSS3 tutorials](http://www.1stwebdesigner.com/css/45-useful-css3-tutorials-and-techniques/)
-
-### Sinatra (with database=>heroku)
-* [Designing With Class: Sinatra + Postgres + Heroku](http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/)
-* [Making a Simple Database Driven Website with Sinatra/Heroku](http://samuelstern.wordpress.com/2012/11/28/making-a-simple-database-driven-website-with-sinatra-and-heroku/)
-
-### Continuous Integration
-* [Setting up Travis CI](https://gist.github.com/ndelage/5593921)
-
-### Git
-* [Introduction to Git with Scott Chacon of GitHub](http://www.youtube.com/watch?v=ZDR433b0HJY)
-* [Git Immersion](http://gitimmersion.com/lab_01.html)
-* [git ready](http://gitready.com/)
-* [Pro Git](http://git-scm.com/book)
