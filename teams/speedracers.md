@@ -11,5 +11,6 @@ Kiera, Morgan, Elmer, and Dave(M)
 * keydown/keypress are doubled
 * keypress is for getting which characters were pressed
 * keydown/keyup is for which *key* was pressed
+* keydown/keyup return different keycodes/charcodes than keypress
 * [input](https://developer.mozilla.org/en-US/docs/Web/Reference/Events/input)
-  seems better for games
+  seems better for getting spans of text, such as from forms
