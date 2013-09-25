@@ -13,6 +13,11 @@ Typeracer
 
 ## Lightning Talks
 
+### OOP Basics in JS - Nick
+* Two ways to make objects: `function myObject() {}`,
+  `var myObject = {}`
+* Object Literals and Constructors
+
 ### JS Selectors - Max
 * `getElementById` - ID's are stored in a reference table
 * `getElementByTag` - Returns a collection of tags
