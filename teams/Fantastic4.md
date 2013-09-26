@@ -36,3 +36,31 @@ end
 class Game
 end
 ```
+
+### UnderscoreJS - Jon and Gary
+It gives you enumerable-like functions in JavaScript!
+```ruby
+[1,4,6,10].select { |v| v > 5 }
+```
+select Before Underscore
+```javascript
+var array = [1,4,6,10];
+newArray = [];
+for (var i = 0; i < array.length; i++) {
+  if (array[i] > 5) {
+    newArray.push(array[i]);
+  }
+}
+```
+
+After Underscore
+
+```javascript
+var array = [1,4,6,10]
+var newArray = _.select(array, function(value) {
+  return value > 5;
+});
+newArray;
+```
+
+```
