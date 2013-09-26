@@ -18,6 +18,9 @@ The rubydoc.info of the javascript world. With more tutorials.
 ## [Javascript Constructors, Prototypes, and the new Keyword](http://pivotallabs.com/javascript-constructors-prototypes-and-the-new-keyword/)
 A great article by Pivotal Labs on how new works.
 
+## [NodeSchool](http://nodeschool.io/)
+Tutorial on basic JavaScript and Node.
+
 # Libraries
 
 ## [Underscore.js](http://underscorejs.org/)
