@@ -15,6 +15,9 @@ A series of books on how to use javascript to... master space and time!
 ## [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 The rubydoc.info of the javascript world. With more tutorials.
 
+## [JavaScript Learning Resources](http://theotherzach.com/writes/2013/9/26/javascript-learning-resources)
+[Zach Briggs](http://theotherzach.com/) wrote a blog post with a lot of JS resources.
+
 
 # Libraries
 
