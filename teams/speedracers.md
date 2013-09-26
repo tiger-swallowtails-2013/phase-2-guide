@@ -24,3 +24,15 @@ Kiera, Morgan, Elmer, and Dave(M)
 * One you put a method on a prototype you can use it on any object constructed
   with the Car constructor.
 
+### Normal Document Flow
+* Not knowing what CSS does by default makes it hard to know what will happen
+  when you change it
+* Two kind of elements: Block levels and Inline elements
+* Block(h1, p, ul, div) are often structural
+* Inline(span, em, img) are more for imformation
+* Block are 100% wide by default
+* Inline will only be as wide as the thing
+* Not prudent to make inline elements block level
+* Block elements can't go inside inline elements
+* Except for a tags. Those can hold block elements
+* Float + Position are how to move things around
