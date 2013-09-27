@@ -47,3 +47,18 @@ var output = a();
 
 output.cheese();
 ```
+
+### Networking! - Doug
+* What is `localhost:8888`
+* `localhost` is being translated as the IP of your own computer,
+  standardized as 127.0.0.1
+* `8888` is the port number on your computer.
+* Ports can be anywhere from 0 to 65,535
+* 22 is SS
+* 80 is HTTPH
+* 143 iMAP (email)
+* 53 DNS
+* `cheese.herokuapp.com`
+* DNS looks up what cheese.herokuapp.com's IP address is
+* This allows people to type english and computers to type numbers
+* Each app listens on a port, but the ports are different all the time
