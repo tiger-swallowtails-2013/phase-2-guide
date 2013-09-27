@@ -36,3 +36,18 @@ Kiera, Morgan, Elmer, and Dave(M)
 * Block elements can't go inside inline elements
 * Except for a tags. Those can hold block elements
 * Float + Position are how to move things around
+
+### Wut is JQuery?! - Elmer
+* It seems like an easier way to traverse the dom than just plain javascript
+* It simplifies how we call on our elements and objects we need for the dom.
+
+POJO way:
+```
+var words = document.getElementById("text")
+words.addEventListener("keypress", callback);
+```
+
+jQuery Way:
+```
+$('#text').on('keypress', callback);
+```
