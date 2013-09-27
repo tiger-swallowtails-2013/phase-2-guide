@@ -65,3 +65,72 @@ var fib = (function() {
 
 fib(100);
 ```
+
+### CSS Transitions - MumRao, aka, Daniel
+
+* Allow you to go from one CSS state to another seamlessly
+* Awesome for animations
+
+```
+<div class="box">
+
+</div>
+<style>
+.box {
+  width: 100;
+  height: 100;
+  background-color: red;
+}
+
+.box:hover {
+  width: 200;
+}
+</style>
+```
+
+Using JS to change the color:
+```
+var box = document.querySelector('.box');
+box.style.width  = 200;
+```
+
+This will cause the box to switch width in a single motion. This is kinda
+jarring.
+
+Instead, you can use css transitions:
+
+```
+.box {
+  width: 100;
+  height: 100;
+  background-color: red;
+  transitions: width 25, height 25;
+  -moz-transitions: width 25, height 25; // This makes transitions work in firefox
+  -webkit-transitions: width 25; height 25; //this makes transitions work for chrome
+}
+```
+This lets you animate the changes! 
+
+[MDN using CSS
+transitions](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions?redirectlocale=en-US&redirectslug=CSS%2FTutorials%2FUsing_CSS_transitions)
+
+### Inheritance in Javascript - Nishant AKA Pant-Rao
+* Javascript is a class free language.
+* So it uses prototypes
+
+```
+function MyObject() {
+}
+MyObject.dosomething = function() {
+  alert("I'm doing something");
+}
+var newThing = new myObject();
+newThing.doSomething(); // This fails, beacause we're only adding it to MyObject
+
+MyObject.prototype.doSomething = function() {
+  alert("I'm doing something");
+}
+
+newThing.doSomething(); // Now it alerts!
+```
+
