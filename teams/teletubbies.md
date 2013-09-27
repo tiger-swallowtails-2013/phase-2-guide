@@ -69,3 +69,14 @@ beforeEach(function() {
 expect(4).toBeDivisibleBy(2); // Passes!
 expect(4).toBeDivisibleBy(3); // Fails!
 ```
+
+### CSS Positioning - Sunny
+- css attributes - top: 20; left: 20
+* position: absolute
+- Physically place a box in a specific location in your document
+- Specify the location either as a percent or pixels.
+* position: fixed
+- Places a box at a specific location in your window
+* position: relative
+- Moves relative to it's natural position
+
