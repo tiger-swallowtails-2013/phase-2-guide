@@ -21,6 +21,9 @@ A great article by Pivotal Labs on how new works.
 ## [Secrets of the JavaScript Ninja](http://www.manning.com/resig/)
 A book recommended for beginner programmer's [in this thread](https://twitter.com/ivanoats/status/383024886077456384).
 
+## [NodeSchool](http://nodeschool.io/)
+Tutorial on basic JavaScript and Node.
+
 # Libraries
 
 ## [Underscore.js](http://underscorejs.org/)
