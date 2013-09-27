@@ -56,7 +56,7 @@ After
 var fib = (function() {
   var memo = [0, 1];
   return function(n) {
-    if(typeof memo[n] !== 'Number') {
+    if(typeof memo[n] !== 'number') {
       memo[n] = fib(n-1) + fib(n-2)
     }
     return memo[n];
