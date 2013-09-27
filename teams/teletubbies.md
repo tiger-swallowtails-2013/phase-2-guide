@@ -23,3 +23,49 @@ Typeracer
 * `getElementByTag` - Returns a collection of tags
 * `querySelector` - can take an '#id'. Returns first that matches
 * `getElementByClassName` - DEPRECATED
+
+### Jasmine Matchers - Tyler
+* expect(x) === (y)    // NOT A MATCHER. Won't ever error
+* expect(x).toEqual(y) // x and y must be equivalent (ala ==)
+* expect(x).toBe(y)            // X and Y must be the exact same object
+* expect(x).toMatch(pattern)   // pattern may be regex or string
+* expect(x).toBeDefined()
+* expect(x).toBeUndefined()
+* expect(x).toBeNull()
+* expect(x).toBeTruthy/Falsy()
+* expect(x).toContain(y)       // x (an array or string) must contain y
+* expect(x).toBeGreater/LessThan(y)
+* expect(func).toThrow(e)      // e is an error message or Error object
+* expect(true).not.toBeFalsy() // inverts expectation
+
+Writing your own matchers!
+
+```
+beforeEach(function() {
+  this.addMatcher({
+    toBeDivisibleByTwo: function() {
+      // this.actual references the argument passed to expect
+      return (this.actual % 2) === 0
+    }
+  });
+});
+
+expect(4).toBeDivisibleByTwo(); // Passes!
+expect(3).toBeDivisibleByTwo(); // Fails!
+```
+
+And you can give them arguments!
+
+```
+beforeEach(function() {
+  this.addMatcher({
+    toBeDivisibleBy: function(divisor) {
+      // this.actual references the argument passed to expect
+      return (this.actual % divisor) === 0
+    }
+  });
+});
+
+expect(4).toBeDivisibleBy(2); // Passes!
+expect(4).toBeDivisibleBy(3); // Fails!
+```

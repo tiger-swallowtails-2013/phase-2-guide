@@ -32,3 +32,36 @@
 * set :database, ENV['DATABASE\_URL'] - how you connect to the database in 
   sinatra
 * has nice rake tasks as well
+
+### Javascript Memoization - Snarf-Rao (AKA Bruno)
+* Memoization is a technique to cache data for later reference
+* [Self executing anonymous
+  functions](http://markdalgleish.com/2011/03/self-executing-anonymous-functions/) (aka [module
+  pattern](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html))
+
+
+before:
+```
+var fib = function(n) {
+  if (n <= 1) { return n; }
+  return fib(n-1) + fib(n-2)
+}
+
+fib(10);
+
+```
+
+After
+```
+var fib = (function() {
+  var memo = [0, 1];
+  return function(n) {
+    if(typeof memo[n] !== 'Number') {
+      memo[n] = fib(n-1) + fib(n-2)
+    }
+    return memo[n];
+  }
+})();
+
+fib(100);
+```
