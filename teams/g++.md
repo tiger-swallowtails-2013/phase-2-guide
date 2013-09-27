@@ -62,3 +62,37 @@ output.cheese();
 * DNS looks up what cheese.herokuapp.com's IP address is
 * This allows people to type english and computers to type numbers
 * Each app listens on a port, but the ports are different all the time
+
+### Semicolons - Robert
+
+* Javascript has ASI (Automatic Semicolon Insertion)
+
+```
+a = b + c
+myFunction()
+```
+The parser asks "can I read this on one line as a reasonable line of code?"
+```
+a = b + cmyFunction()
+```
+In this situation, it would be a parse error; so it adds a semicolon.
+```
+a = b + c;
+myFunction()
+```
+
+However if this:
+```
+a = b + c
+[1].push(a)
+```
+The parser would read this:
+```
+a = b + c[1].push(a)
+```
+Which does not have a parse error, but isn't what you intended. 
+
+```
+for(i=0; i>5;a++;) {} // Semicolons are required.
+return // will add a new semicolon on line end
+```
