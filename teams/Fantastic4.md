@@ -64,3 +64,13 @@ newArray;
 ```
 
 ```
+
+### AJAX?! - Gary
+* Asynchronous Javascript and XML
+* It allows you to refresh part of the page without reloading it
+* Examples: Facebook Statuses, Gmail, etc.
+* But what am I doing when I ajax?
+* It's a request taht si sent to the server and responded to without reloading
+  the page
+* It conforms to the XHR API
+* [XmlHTTPRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
