@@ -18,3 +18,4 @@ objectives](week2/learning_objectives.md).
 
 ## Resources
 * [Javascript](resources/javascript.md)
+* [Javascript Test Doubles](resources/js_test_doubles.md)
