@@ -18,6 +18,9 @@ The rubydoc.info of the javascript world. With more tutorials.
 ## [Javascript Constructors, Prototypes, and the new Keyword](http://pivotallabs.com/javascript-constructors-prototypes-and-the-new-keyword/)
 A great article by Pivotal Labs on how new works.
 
+## [Secrets of the JavaScript Ninja](http://www.manning.com/resig/)
+A book recommended for beginner programmer's [in this thread](https://twitter.com/ivanoats/status/383024886077456384).
+
 ## [NodeSchool](http://nodeschool.io/)
 Tutorial on basic JavaScript and Node.
 
