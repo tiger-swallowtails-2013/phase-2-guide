@@ -1,4 +1,4 @@
-### Three Thumbs Up
+### :+1: :+1: :+1:
 
 1. Create a multi-model database driven web application with RESTful routes
 2. Host the application on Rackspace, BlueBox, Heroku, and/or Engine Yard
@@ -7,7 +7,7 @@
 5. Use Active Record Scopes to filter data on the Model
 6. Do everything in the Two Thumbs Up
 
-### Two Thumbs Up
+### :+1: :+1:
 
 1. Create a single-model database driven web application with RESTful routes
 2. Submit full stack pull requests
@@ -15,7 +15,7 @@
 4. Use active record relations effectively
 5. Do everything in the One Thumb Up
 
-### One Thumb Up
+### :+1:
 
 1. Create a single-model database driven web application
 2. Submit and merge pull requests
