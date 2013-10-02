@@ -1,4 +1,4 @@
-### 3 Thumbs Up
+### :+1: :+1: :+1:
 I can:
 
 1. Use AJAX and front end templating to create a multi-model single-page app
@@ -11,7 +11,7 @@ I can:
 5. Do all of the 3 Thumbs Up from Week 1
 6. Do all of the 2 Thumbs Up from Week 2
 
-### 2 Thumbs Up
+### :+1: :+1:
 I can:
 
 1. Use front end templating to replace content
@@ -23,7 +23,7 @@ I can:
 6. Do all of the 1 thumbs up from week 2
 
 
-### 1 Thumb Up
+### :+1:
 I can:
 
 1. Use functional scoping to organize javascript code
