@@ -36,3 +36,6 @@ An ultra-light javascript library that gives you the power of enumerables
 A robust, cross browser html element finder that allows you to use CSS3 to find
 elements.
 
+# Examples
+
+## [Myles' Object-Oriented JavaScript Lecture](code/objectOriented.js)
