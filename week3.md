@@ -1,24 +1,12 @@
 # Week 3
 
 You have the skills you need to start shipping production apps. This week you'll
-pull it all together and make a production-level app that you're proud ofq
+pull it all together and make a production-level app that you're proud of.
 
 ## Group Objectives
 1. Pushing to Heroku on Every Merge
 
-## Learning Objectives
-
-This is a first pass on what I would like to see people doing in week 3. I'm not
-sure which of these will be 1,2 or 3 thumbs up yet.
-
-2. Using OAuth for authentication (github, devbootcamp, etc)
-1. Working with external APIs (github, stripe, twitter, instagram)
-3. Working with JavaScript libraries (leaflet, chartjs)
-4. Working with Ruby libraries (omniauth, dragonfly, fog)
-5. Background jobs (sidekiq)
-6. AJAX (either with jQuery or reqwest)
-7. Full end to end tests with Capybara and Web Driver
-
+## [Learning Objectives](week3/learning-objectives.md)
 
 ## Resources
 
