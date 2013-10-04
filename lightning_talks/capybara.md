@@ -5,6 +5,7 @@
 * RackTest is it's default driver, which doesn't work with javascript
 * If you want to work with javascript, you have to install capybara-webkit
 
+Capybara documentation: http://rubydoc.info/gems/capybara/2.1.0/frames
 
 ```ruby
 require 'capybara/rspec'
